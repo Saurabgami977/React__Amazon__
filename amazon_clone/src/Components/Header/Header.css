@@ -1,0 +1,9 @@
+.header {
+  background-color: #121921;
+}
+
+.header__logo {
+  width: 100px;
+  margin: 18px 20px 0px;
+  cursor: pointer;
+}
