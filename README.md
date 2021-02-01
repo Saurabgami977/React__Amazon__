@@ -1,7 +1,7 @@
 # React__Amazon__
 Cloning Amazon.
 
-#Technology used
+# Technology used
 ### React.JS
 ### Firebase
 ### Context API
